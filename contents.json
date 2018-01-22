@@ -2161,6 +2161,11 @@
       "description": "A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.",
       "homepage": "https://github.com/tungvoduc/DTPhotoViewerController"
     },{
+      "title": "PhotoViewerController",
+      "category": "images",
+      "description": "A customizable photo viewer with bottom and top actions, title, and bottom captions to display collection of photos, inspired by Apple Photos.",
+      "homepage": "https://github.com/botirjon/PhotoViewerController"
+    },{
       "title": "C4iOS",
       "category": "kit",
       "description": "Harnesses the power of native iOS programming with a simplified API.",
